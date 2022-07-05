@@ -1,0 +1,3 @@
+[submodule "summer-practice-front"]
+	path = summer-practice-front
+	url = https://github.com/abshnko/summer-practice-front.git
