@@ -1,3 +1,6 @@
 [submodule "summer-practice-front"]
 	path = summer-practice-front
 	url = https://github.com/abshnko/summer-practice-front.git
+[submodule "SiteBack"]
+	path = SiteBack
+	url = https://github.com/LekoevNVK/SiteBack.git
