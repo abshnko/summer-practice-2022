@@ -1,9 +1,9 @@
 [submodule "summer-practice-front"]
 	path = summer-practice-front
 	url = https://github.com/abshnko/summer-practice-front.git
-[submodule "SiteBack"]
-	path = SiteBack
-	url = https://github.com/LekoevNVK/SiteBack.git
-[submodule "htr__test_bot"]
-	path = htr__test_bot
-	url = https://github.com/nikitka1234/htr__test_bot.git
+[submodule "Site_back_dev"]
+	path = Site_back_dev
+	url = https://github.com/LekoevNVK/Site_back_dev.git
+[submodule "TELEGRAM_HTR_BOT"]
+	path = TELEGRAM_HTR_BOT
+	url = https://github.com/nikitka1234/TELEGRAM_HTR_BOT.git
