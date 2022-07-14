@@ -7,3 +7,6 @@
 [submodule "TELEGRAM_HTR_BOT"]
 	path = TELEGRAM_HTR_BOT
 	url = https://github.com/nikitka1234/TELEGRAM_HTR_BOT.git
+[submodule "HandwrittenML"]
+	path = HandwrittenML
+	url = https://github.com/tikzed/HandwrittenML.git
